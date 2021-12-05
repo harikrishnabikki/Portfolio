@@ -26,6 +26,10 @@ Based on:
 - https://github.com/saadpasta/developerFolio
 - https://github.com/vvHacker007/
 
+Deployment:
+
+- https://www.youtube.com/watch?v=oot9ZrhkHqQ
+
 Illustrations:
 
 - https://undraw.co/
