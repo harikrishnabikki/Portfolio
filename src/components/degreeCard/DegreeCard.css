@@ -35,6 +35,7 @@
 
 .body-header-duration {
   width: 20%;
+  color: #ffffff;
 }
 .duration {
   font-family: "Google Sans Regular";
@@ -72,9 +73,10 @@
   }
 
   .body-header-duration {
-    padding: 0;
+    padding: 10px;
     margin: 0;
     width: 100%;
+    color: #ffffff;
   }
 
   .duration {

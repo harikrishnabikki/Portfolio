@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
+    "debug-deploy": "NODE_DEBUG=gh-pages npm run deploy",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",

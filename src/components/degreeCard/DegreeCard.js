@@ -47,10 +47,11 @@ function DegreeCard(props) {
 
   const button_visit = style({
     textDecoration: "none",
+    textAlign: "center",
     color: "rgba(255, 255, 255, 1)",
     background: `${theme.accentColor}`,
     padding: "15px 15px",
-    marginTop: "25px",
+    marginTop: "5px",
     borderRadius: "4px",
     borderWidth: "0px",
     marginBottom: "20px",
@@ -61,9 +62,17 @@ function DegreeCard(props) {
     fontSize: "17px",
     transition: "all 0.2s ease-in-out",
     cursor: "pointer",
+    marginRight: "23px",
+    float: "right",
+    alignItems: "center",
+    textDecoration: "none",
+    backgroundColor: theme.accentColor,
     ":hover": {
       color: "rgba(255, 255, 255, 1)",
       boxShadow: `0 5px 10px ${theme.accentColor}`,
+    },
+    "@media (max-width: 768px)": {
+      marginRight: "43px",
     },
   });
 
@@ -75,7 +84,8 @@ function DegreeCard(props) {
             style={{
               maxWidth: "100%",
               maxHeight: "100%",
-              transform: "scale(-50%, -50%)",
+              transform: "scale(0.75)",
+              translate: "(-100%, -100%)",
             }}
             src={require(`../../assests/images/${degree.logo_path}`)}
             alt={degree.alt_name}
@@ -97,9 +107,7 @@ function DegreeCard(props) {
               </h3>
             </div>
             <div className="body-header-duration">
-              <h3 className="duration" style={{ color: "#FFFFFF" }}>
-                {degree.duration}
-              </h3>
+              <h3 className="duration">{degree.duration}</h3>
             </div>
           </div>
           <div classname="body-content">
@@ -114,17 +122,10 @@ function DegreeCard(props) {
               href={degree.website_link}
               target="_blank"
               rel="noopener noreferrer"
-              style={{ textDecoration: "none", textAlign: "center" }}
+              class="visit-website-button"
+              style={{ textDecoration: "none" }}
             >
-              <p
-                {...button_visit}
-                style={{
-                  marginRight: "23px",
-                  textDecoration: "none",
-                  float: "right",
-                  backgroundColor: theme.accentColor,
-                }}
-              >
+              <p {...button_visit} class="visit-website-button-text">
                 Visit Website &nbsp;
                 <i class="fas fa-external-link-alt"></i>
               </p>

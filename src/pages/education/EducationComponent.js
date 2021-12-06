@@ -25,9 +25,9 @@ function Education(props) {
               <h1 className="heading-text" style={{ color: theme.text }}>
                 {education.title}
               </h1>
-              {/* <h3 className="heading-sub-text" style={{ color: theme.text }}>
-              {education.subtitle}
-              </h3> */}
+              <h3 className="heading-sub-text" style={{ color: theme.text }}>
+                {education.subtitle}
+              </h3>
               <p
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
