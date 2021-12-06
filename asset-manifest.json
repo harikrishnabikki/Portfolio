@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8621f5ce.chunk.css",
-    "main.js": "/static/js/main.aa566563.chunk.js",
-    "main.js.map": "/static/js/main.aa566563.chunk.js.map",
+    "main.css": "/static/css/main.e60524c8.chunk.css",
+    "main.js": "/static/js/main.f39c68b3.chunk.js",
+    "main.js.map": "/static/js/main.f39c68b3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.8a658712.chunk.js": "/static/js/2.8a658712.chunk.js",
-    "static/js/2.8a658712.chunk.js.map": "/static/js/2.8a658712.chunk.js.map",
+    "static/js/2.6b2c8d10.chunk.js": "/static/js/2.6b2c8d10.chunk.js",
+    "static/js/2.6b2c8d10.chunk.js.map": "/static/js/2.6b2c8d10.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d5ac66507a62ade89ed86520fb687e9b.js": "/precache-manifest.d5ac66507a62ade89ed86520fb687e9b.js",
+    "precache-manifest.dba9a9b024fe276076a89715e9f60401.js": "/precache-manifest.dba9a9b024fe276076a89715e9f60401.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8621f5ce.chunk.css.map": "/static/css/main.8621f5ce.chunk.css.map",
-    "static/js/2.8a658712.chunk.js.LICENSE.txt": "/static/js/2.8a658712.chunk.js.LICENSE.txt",
+    "static/css/main.e60524c8.chunk.css.map": "/static/css/main.e60524c8.chunk.css.map",
+    "static/js/2.6b2c8d10.chunk.js.LICENSE.txt": "/static/js/2.6b2c8d10.chunk.js.LICENSE.txt",
     "static/media/ACS-PY-logo.png": "/static/media/ACS-PY-logo.41ab2174.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/FCA.png": "/static/media/FCA.9c817fe8.png",
-    "static/media/Monash-shield.png": "/static/media/Monash-shield.4baecb51.png",
-    "static/media/PEC-logo.png": "/static/media/PEC-logo.1a591a52.png",
+    "static/media/Monash-shield.png": "/static/media/Monash-shield.f6e60f02.png",
+    "static/media/PEC-logo.png": "/static/media/PEC-logo.d0a0c387.png",
     "static/media/connecx-logo.png": "/static/media/connecx-logo.ff7cf44f.png",
     "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/hari_profile_pic.jpeg": "/static/media/hari_profile_pic.efc218cb.jpeg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.8a658712.chunk.js",
-    "static/css/main.8621f5ce.chunk.css",
-    "static/js/main.aa566563.chunk.js"
+    "static/js/2.6b2c8d10.chunk.js",
+    "static/css/main.e60524c8.chunk.css",
+    "static/js/main.f39c68b3.chunk.js"
   ]
 }

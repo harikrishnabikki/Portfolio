@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "411c4323f460cba9869d3dfc28974861",
+    "revision": "6abff004505f48cbd5189b1f1a5ae741",
     "url": "/index.html"
   },
   {
-    "revision": "d241feadfe02ae198fb3",
-    "url": "/static/css/main.8621f5ce.chunk.css"
+    "revision": "15da34fef5cfe85e28b4",
+    "url": "/static/css/main.e60524c8.chunk.css"
   },
   {
-    "revision": "2c8eae453e4d85305991",
-    "url": "/static/js/2.8a658712.chunk.js"
+    "revision": "ddb83081d0a4b3aecdde",
+    "url": "/static/js/2.6b2c8d10.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.8a658712.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6b2c8d10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d241feadfe02ae198fb3",
-    "url": "/static/js/main.aa566563.chunk.js"
+    "revision": "15da34fef5cfe85e28b4",
+    "url": "/static/js/main.f39c68b3.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
-    "revision": "4baecb515bb791d26abae62f256efd4e",
-    "url": "/static/media/Monash-shield.4baecb51.png"
+    "revision": "f6e60f02a3125c710d47f8b9a68d690d",
+    "url": "/static/media/Monash-shield.f6e60f02.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "1a591a520c4a31de9f5507a90695c1a5",
-    "url": "/static/media/PEC-logo.1a591a52.png"
+    "revision": "d0a0c387a3d50a9a9946fab26108e185",
+    "url": "/static/media/PEC-logo.d0a0c387.png"
   },
   {
     "revision": "ff7cf44f01c7fbbabe27f427b403b817",
