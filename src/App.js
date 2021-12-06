@@ -17,7 +17,9 @@ function App() {
     }
   }, []);
 
-  const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
+  const [theme, setTheme] = useState(
+    localStorage.getItem("theme") || settings.defaultTheme
+  );
 
   return (
     <ThemeProvider theme={themes[theme]}>

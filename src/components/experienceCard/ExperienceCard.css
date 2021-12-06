@@ -118,7 +118,8 @@
     width: 100px;
   }
 
-  .experience-card-body-div {
+  .experience-card-logo-div {
+    margin-left: 75px;
   }
 
   .experience-card-heading-left {

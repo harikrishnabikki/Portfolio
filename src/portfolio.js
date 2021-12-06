@@ -3,6 +3,7 @@ const settings = {
   isSplash: true,
   useCustomCursor: false,
   googleTrackingID: "",
+  defaultTheme: "light",
 };
 
 //Home Page
