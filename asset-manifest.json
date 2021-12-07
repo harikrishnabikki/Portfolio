@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c68a1f68.chunk.css",
-    "main.js": "/static/js/main.defa7a0d.chunk.js",
-    "main.js.map": "/static/js/main.defa7a0d.chunk.js.map",
+    "main.css": "/static/css/main.2b92d67c.chunk.css",
+    "main.js": "/static/js/main.a5cd2816.chunk.js",
+    "main.js.map": "/static/js/main.a5cd2816.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/js/2.6b2c8d10.chunk.js": "/static/js/2.6b2c8d10.chunk.js",
     "static/js/2.6b2c8d10.chunk.js.map": "/static/js/2.6b2c8d10.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.56fc5715921e84784feae2fd1f448f9e.js": "/precache-manifest.56fc5715921e84784feae2fd1f448f9e.js",
+    "precache-manifest.19dc7f6ec30044de074444bcf8e1c8e0.js": "/precache-manifest.19dc7f6ec30044de074444bcf8e1c8e0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c68a1f68.chunk.css.map": "/static/css/main.c68a1f68.chunk.css.map",
+    "static/css/main.2b92d67c.chunk.css.map": "/static/css/main.2b92d67c.chunk.css.map",
     "static/js/2.6b2c8d10.chunk.js.LICENSE.txt": "/static/js/2.6b2c8d10.chunk.js.LICENSE.txt",
     "static/media/ACS-PY-logo.png": "/static/media/ACS-PY-logo.41ab2174.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/js/2.6b2c8d10.chunk.js",
-    "static/css/main.c68a1f68.chunk.css",
-    "static/js/main.defa7a0d.chunk.js"
+    "static/css/main.2b92d67c.chunk.css",
+    "static/js/main.a5cd2816.chunk.js"
   ]
 }
