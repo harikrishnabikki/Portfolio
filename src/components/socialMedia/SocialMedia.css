@@ -47,12 +47,12 @@
   box-shadow: 0 5px 15px #333;
 }
 
-.video i {
+.calendar i {
   background-color: #2d8cff;
   transition: all 0.2s ease-in-out;
 }
 
-.video i:hover {
+.calendar i:hover {
   color: rgba(255, 255, 255, 1);
   box-shadow: 0 5px 15px #0e76a8;
 }

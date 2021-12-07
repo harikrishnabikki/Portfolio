@@ -14,6 +14,11 @@ function ExperienceCard(props) {
     >
       <div className="experience-card-logo-div">
         <img
+          style={{
+            maxWidth: "100%",
+            maxHeight: "100%",
+            transform: "scale(0.75)",
+          }}
           className="experience-card-logo"
           src={require(`../../assests/images/${experience["logo_path"]}`)}
           alt=""

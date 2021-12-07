@@ -9,7 +9,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋",
-  title2: "hk_bikk[i]",
+  footer: "hk_bikki",
   logo_name: "hk_bikk[i]",
   full_name: "Hari",
   subTitle:
@@ -25,6 +25,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/hari-krishna-bikki/",
   gmail: "bikkiharikrishna@gmail.com",
   telephone: "+61421220200",
+  calendar: "https://calendly.com/bikkiharikrishna",
 };
 
 const skills = {
@@ -282,7 +283,7 @@ const educationPage = {
     },
     {
       title: "Panimalar Engineering College",
-      subtitle: " Bachelor of Computer Science and Engineering",
+      subtitle: " Bachelors in Computer Science and Engineering",
       logo_path: "Education/PEC-logo.png",
       alt_name: "PEC",
       duration: "2011 - 2015",

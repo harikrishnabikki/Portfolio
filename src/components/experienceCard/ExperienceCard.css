@@ -112,14 +112,15 @@
     margin-bottom: 10px;
     flex-direction: column;
     text-align: center;
+    display: block;
+  }
+
+  .experience-card-logo-div {
+    margin-left: 0px;
   }
 
   .experience-card-logo {
     width: 100px;
-  }
-
-  .experience-card-logo-div {
-    margin-left: 75px;
   }
 
   .experience-card-heading-left {

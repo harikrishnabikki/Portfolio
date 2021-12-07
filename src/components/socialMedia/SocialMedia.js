@@ -2,7 +2,7 @@ import React from "react";
 import "./SocialMedia.css";
 import { socialMediaLinks } from "../../portfolio";
 
-export default function socialMedia() {
+function socialMedia() {
   return (
     <div className="social-media-div">
       <a
@@ -33,6 +33,15 @@ export default function socialMedia() {
         <span></span>
       </a>
       <a
+        href={socialMediaLinks.calendar}
+        className="icon-button calendar"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i className="fas fa-calendar-alt"></i>
+        <span></span>
+      </a>
+      <a
         href={`tel:${socialMediaLinks.telephone}`}
         className="icon-button phone-alt"
       >
@@ -42,3 +51,5 @@ export default function socialMedia() {
     </div>
   );
 }
+
+export default socialMedia;
