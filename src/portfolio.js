@@ -2,7 +2,7 @@
 const settings = {
   isSplash: true,
   useCustomCursor: false,
-  googleTrackingID: "",
+  googleTrackingID: "G-041TTQ52ZD",
   defaultTheme: "light",
 };
 
